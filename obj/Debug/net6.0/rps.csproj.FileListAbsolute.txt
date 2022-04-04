@@ -1,0 +1,15 @@
+/Users/hannahprather/source/codeworks/rps/bin/Debug/net6.0/rps
+/Users/hannahprather/source/codeworks/rps/bin/Debug/net6.0/rps.deps.json
+/Users/hannahprather/source/codeworks/rps/bin/Debug/net6.0/rps.runtimeconfig.json
+/Users/hannahprather/source/codeworks/rps/bin/Debug/net6.0/rps.dll
+/Users/hannahprather/source/codeworks/rps/bin/Debug/net6.0/rps.pdb
+/Users/hannahprather/source/codeworks/rps/obj/Debug/net6.0/rps.csproj.AssemblyReference.cache
+/Users/hannahprather/source/codeworks/rps/obj/Debug/net6.0/rps.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hannahprather/source/codeworks/rps/obj/Debug/net6.0/rps.AssemblyInfoInputs.cache
+/Users/hannahprather/source/codeworks/rps/obj/Debug/net6.0/rps.AssemblyInfo.cs
+/Users/hannahprather/source/codeworks/rps/obj/Debug/net6.0/rps.csproj.CoreCompileInputs.cache
+/Users/hannahprather/source/codeworks/rps/obj/Debug/net6.0/rps.dll
+/Users/hannahprather/source/codeworks/rps/obj/Debug/net6.0/refint/rps.dll
+/Users/hannahprather/source/codeworks/rps/obj/Debug/net6.0/rps.pdb
+/Users/hannahprather/source/codeworks/rps/obj/Debug/net6.0/rps.genruntimeconfig.cache
+/Users/hannahprather/source/codeworks/rps/obj/Debug/net6.0/ref/rps.dll
